@@ -21,13 +21,6 @@ This script requires the following Python modules:
 -Image (Python Imaging Library) <br>
 -os (Operating System)
 
-# Steps to run the script
-
-TBD - Need to add steps to run the script
-
-**Proof of Concept Code Here:**
-Modifications to the existing exploit was needed and is highlighted in red.
-
 ```python
 # Start by importing the image
 from PIL import Image   # module for image processing
