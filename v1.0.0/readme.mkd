@@ -4,7 +4,6 @@ author: ["Jake Williams", "Contact  : info@jakeawilliams.com"]
 date: "2022-07-03"
 subject: "Image Conversion to .jpg in Python"
 keywords: [Image, Python]
-subtitle: "OSCP Exam Report"
 lang: "en-US"
 titlepage: true
 titlepage-color: "ADC3D1"
