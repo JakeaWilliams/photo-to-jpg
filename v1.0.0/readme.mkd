@@ -5,14 +5,6 @@ date: "2022-07-03"
 subject: "Image Conversion to .jpg in Python"
 keywords: [Image, Python]
 lang: "en-US"
-titlepage: true
-titlepage-color: "ADC3D1"
-titlepage-text-color: "EEECF1"
-titlepage-rule-color: "EEECF1"
-titlepage-rule-height: 2
-book: true
-classoption: oneside
-code-block-font-size: \scriptsize
 ---
 # Image Conversion to .jpg
 
