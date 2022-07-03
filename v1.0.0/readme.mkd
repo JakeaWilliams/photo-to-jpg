@@ -10,9 +10,9 @@ lang: "en-US"
 
 ## Introduction & Objective
 
-This is a simple Python script that converts all the images in a directory to .jpg format.
+This is a simple Python script that converts images in a directory to .jpg format.
 
-
+![https://media.giphy.com/media/HaW2iLDzbXePTUzUuP/giphy.gif](https://media.giphy.com/media/HaW2iLDzbXePTUzUuP/giphy-downsized.gif)
 ## Requirements
 
 This script requires the following Python modules:
