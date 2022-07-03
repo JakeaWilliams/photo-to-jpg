@@ -17,7 +17,7 @@ code-block-font-size: \scriptsize
 ---
 # Image Conversion to .jpg
 
-![Walkthrough](https://media.giphy.com/media/HaW2iLDzbXePTUzUuP/giphy.gif) <br>
+![Walkthrough](https://media.giphy.com/media/HaW2iLDzbXePTUzUuP/giphy.gif)
 
 ## Introduction & Objective
 
