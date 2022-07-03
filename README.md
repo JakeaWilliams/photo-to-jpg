@@ -30,9 +30,6 @@ im = Image.open('images/in/image1.png')
 print("The size of the image before conversion is: ", end = "")
 print(os.path.getsize('images/in/image1.png'))
 # ------------------------------------------------------------
-
-
-
 # Display the image before editing ---
 Image.open('images/in/image1.png') 
 # ------------------------------------
