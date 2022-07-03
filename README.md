@@ -1,7 +1,3 @@
-
-![Walkthrough](https://media.giphy.com/media/HaW2iLDzbXePTUzUuP/giphy.gif) <br>
-
-
 ---
 Project: "Image Conversion to .jpg"
 author: ["Jake Williams", "Contact  : info@jakeawilliams.com"]
@@ -20,6 +16,8 @@ classoption: oneside
 code-block-font-size: \scriptsize
 ---
 # Image Conversion to .jpg
+
+![Walkthrough](https://media.giphy.com/media/HaW2iLDzbXePTUzUuP/giphy.gif) <br>
 
 ## Introduction & Objective
 
